@@ -1,0 +1,11 @@
+Classify the customer request into exactly one of:
+
+ORDER_STATUS
+DELIVERY_DELAY
+REFUND
+PAYMENT_PROBLEM
+CANCEL_ORDER
+PRODUCT_INFORMATION
+GENERAL_SUPPORT
+
+Return only the label, nothing else.
